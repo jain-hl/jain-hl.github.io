@@ -19,6 +19,16 @@
 - A-Levels: Maths (A*), Further Maths (A*), Physics (A*), EPQ (A*)
 - GCSEs: 10 A*s, 3 As, FSMQ (A)
 
+## **Projects**
+
+- **[Stroke Classification](https://github.com/jain-hl/stroke-classification)**
+- **[Deep Learning in Radiology](https://github.com/jain-hl/deep-learning-in-radiology)**
+- **[Supervised Learning 1](https://github.com/jain-hl/supervised-learning-1)**
+- **[Supervised Learning 2](https://github.com/jain-hl/supervised-learning-2)**
+- **[Bayesian Deep Learning 1](https://github.com/jain-hl/bayesian-deep-learning-1)**
+- **[Bayesian Deep Learning 2](https://github.com/jain-hl/bayesian-deep-learning-2)**
+- **[Methods of Data Science](https://github.com/jain-hl/methods-of-data-science)**
+  
 ## **Employment**
 
 #### **Operational Excellence Manager**
