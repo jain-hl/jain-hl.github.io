@@ -1,11 +1,11 @@
 # Data Scientist
 
-### Technical Skills
+## Technical Skills
 - **AWS Cloud**: AWS Machine Learning Specialty | AWS Solutions Architect Associate | AWS Cloud Practitioner
 - **Programming**: Python (NumPy, Pandas, Sklearn, TensorFlow, Torch) | MATLAB | R
 - **Other**: Salesforce | Excel | LaTeX | HTML/CSS
 
-### Education
+## Education
 #### MSc Data Science & Machine Learning | **University College London** (_Sep 2023 - Sep 2024_)
 - Statistical Data Science, Applied Machine Learning, Supervised Learning, Natural Language Processing, Bayesian Deep Learning, Applied Deep Learning, Healthcare AI, Digital Finance
 
@@ -16,7 +16,7 @@ Methods of Data Science, Stochastic Simulation, Statistical Theory, Applied Prob
 - A-Levels: Maths (A*), Further Maths (A*), Physics (A*), EPQ (A*)
 - GCSEs: 10 A*s, 3 As, FSMQ (A)
 
-### Employment
+## Employment
 #### Operational Excellence Manager | **Amazon Web Services, London** (_Jan 2023 - Sep 2023_)
 - Automated and streamlined the sales campaign tracking mechanism, improving accuracy of seller-inputted data from
 60% to 95%; presented data analysis on monthly campaign performance to sales leaders
