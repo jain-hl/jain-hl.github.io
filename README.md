@@ -1,4 +1,4 @@
-# **Harshal Jain**
+# **Data Scientist**
 
 ## **Technical Skills**
 - **AWS Cloud**: AWS Machine Learning Specialty \| AWS Solutions Architect Associate \| AWS Cloud Practitioner
