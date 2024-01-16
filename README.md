@@ -7,11 +7,11 @@
 
 ## **Education**
 
-#### MSc Data Science & Machine Learning
+#### **MSc Data Science & Machine Learning**
 **University College London** (_Sep 2023 - Sep 2024_)
 - Statistical Data Science, Applied Machine Learning, Supervised Learning, Natural Language Processing, Bayesian Deep Learning, Applied Deep Learning, Healthcare AI, Digital Finance
 
-#### BSc Mathematics: First Class Honours (75.7%)
+#### **BSc Mathematics: First Class Honours (75.7%)**
 **Imperial College London** (_Sep 2018 – Jun 2021_)
 - Methods of Data Science, Stochastic Simulation, Statistical Theory, Applied Probability, Mathematical Biology, Classical Dynamics, Mathematics of Business, Mathematical Finance
 
