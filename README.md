@@ -1,9 +1,9 @@
 # Data Scientist
 
 ### Technical Skills
-- **AWS Cloud**: AWS Machine Learning Specialty | AWS Solutions Architect Associate | AWS Cloud Practitioner
-- **Programming**: Python (NumPy, Pandas, Sklearn, TensorFlow, Torch) | MATLAB | R
-- **Other**: Salesforce | Excel | LaTeX | HTML/CSS
+**AWS Cloud**: AWS Machine Learning Specialty | AWS Solutions Architect Associate | AWS Cloud Practitioner
+**Programming**: Python (NumPy, Pandas, Sklearn, TensorFlow, Torch) | MATLAB | R
+**Other**: Salesforce | Excel | LaTeX | HTML/CSS
 
 ### Education
 - **University College London** (Sep 2023 - Sep 2024)
